@@ -9,7 +9,7 @@ region = {1:"DF, GO, MS, MT e TO",
             8:"SP",
             9:"PR e SC",
             0:"RS"}
-#função para conferir a veracidade dos dígitos verificadores
+#função para conferir os dígitos verificadores
 def dig(cpf):
     d1 = 0
     d2 = 0
